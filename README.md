@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulations
+# Monte-Carlo-Simulation
 A self-coded project which finds the area of a circle using Monte Carlo methods to better understand how they work. Completed before formally learning about Monte Carlo methods in my degree.
 
 ## Getting started
