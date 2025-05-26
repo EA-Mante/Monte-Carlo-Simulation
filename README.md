@@ -18,7 +18,7 @@ Monte Carlo methods can also be used to find the equilibrium state of a chemical
 
 ***
 
-![image](https://github.com/user-attachments/assets/3be552b2-93f5-45a0-b295-cfafbaa04300)
+![WATERMARKED_Monte_Carlo_Flowchart_v01](https://github.com/user-attachments/assets/1f9c264b-477d-4e53-94b4-22f65c8bb274)
 
 ***
 
